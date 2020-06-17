@@ -58,7 +58,7 @@ function App() {
     return (
         <div className="App">
             <header> 
-                <h1>Movie Database</h1>
+                <h1>Test Database</h1>
                 <h5>Using Omdb API</h5>
             </header>
             <main>
