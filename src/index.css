@@ -147,6 +147,13 @@ section {
   padding: 15px;
 }
 
+.popup .content .plot p span {
+  display: block;
+  font-weight: bold;
+  margin-bottom: .3rem;
+  margin-top: .3rem;
+}
+
 .popup .content .close {
   display: inline-block;
   padding: 15px 30px;
